@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLite Example</string>
+    <string name="showDataText">Data will be displayed here</string>
+</resources>
